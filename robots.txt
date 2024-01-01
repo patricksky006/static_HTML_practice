@@ -1,0 +1,3 @@
+# 設定搜尋引擎那些資源可以爬，哪些不行
+User-agent: *
+Disallow: /images/
